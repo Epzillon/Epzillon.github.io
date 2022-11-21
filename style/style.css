@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+#main {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.timer-title {
+    text-align: center;
+    font-family: 'Comic Sans', 'Comic Sans MS', Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.timer {
+    font-family: 'Comic Sans', 'Comic Sans MS', Arial, Helvetica, sans-serif;
+    color: red;
+}
