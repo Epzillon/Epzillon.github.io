@@ -2,7 +2,7 @@ class CarBreakdownTimer {
     githubUrl = "epix0r.github.io";
     assetsFolder = "assets/";
     fileName = "date.json";
-    dateLastBreakdown = "2022-11-20T15:57:00";
+    dateLastBreakdown = "2022-11-22T16:20:00";
 
     getTimeSinceLastBreakdown() {
         let lastBreakdownDate = new Date(this.dateLastBreakdown);
